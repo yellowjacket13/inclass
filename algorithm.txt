@@ -1,0 +1,3 @@
+decide what kind of pizza we want
+decide how many pizzas we want
+decide how many beers we want 

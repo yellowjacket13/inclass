@@ -1,0 +1,7 @@
+1. decide what kind of pizza we want
+2. decide how many pizzas we want
+3. decide how many beers we want 
+4. call pizza place
+ a. they answered - go to step 5
+ b. they don't answer - go to step 4 again 
+5. place the order
